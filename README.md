@@ -1,3 +1,7 @@
 # sgv-text-translation
+Python based script to automatically translate text from German to English.
 
-<img src="Translation.PNG" width="80% title="Translation">
+# Example
+<p align="center">
+<img src="Translation.PNG" width="100% title="Output">
+</p>
